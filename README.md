@@ -23,3 +23,5 @@ nodejs is a webserver that  is handled by the user
 mongodb is a databaseserver that is handled machine
 i have used express for  framework
 routing is being  done by get and post request
+mongoose is being used to establish a connection between datasrver and webserver
+bodyparser is a middleware which  works between request and response.
