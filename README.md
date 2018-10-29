@@ -20,14 +20,14 @@ The user will have to enter all details,once he has entered,he can then sign in 
 
 
 Backend:
-For backend i have used nodejs and mongodb
-nodejs is a webserver that  is handled by the user
-mongodb is a databaseserver that is handled by the machine
-I have used express for  framework
-Routing is being  done by get and post request
- mongo is a variable,mongoose is being used to establish a connection between datasrver and webserver.
-bodyparser is a middleware which  works between request and response.
-bodyparser is used so that so that the data that is recieved by the post request is converted into readable form .
+For backend i have used nodejs and mongodb.
+Nodejs is a webserver that  is handled by the user.
+Mongodb is a databaseserver that is handled by the machine.
+I have used express for  framework.
+Routing is being  done by get and post request.
+mongo is a variable,mongoose is being used to establish a connection between dataserver and webserver.
+Bodyparser is a middleware which  works between request and response.
+Bodyparser is used so that so that the data that is recieved by the post request is converted into readable form .
 urlep used is the object of bodyparser.
 var app=express()is the object of the express.
 mongo.connect is used to establish  a connection to the database.
