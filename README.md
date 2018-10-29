@@ -2,15 +2,15 @@
 Registration Portal
 # registration-portal
 a registration  portal for people to sign in and sign up
-![home](https://user-images.githubusercontent.com/44523159/47619355-ce759f80-db03-11e8-9f7c-ff7e4601d841.PNG)
-![homepage](https://user-images.githubusercontent.com/44523159/47619356-d1709000-db03-11e8-9529-66cebf0747b7.PNG)
-![invalidpass](https://user-images.githubusercontent.com/44523159/47619358-d3d2ea00-db03-11e8-983f-8a55379af0ef.PNG)
-![invaliduser](https://user-images.githubusercontent.com/44523159/47619361-d59cad80-db03-11e8-9778-367d9c9b8a80.PNG)
-![login](https://user-images.githubusercontent.com/44523159/47619362-d6cdda80-db03-11e8-8f7b-e611c902b0b9.PNG)
-![registration](https://user-images.githubusercontent.com/44523159/47619363-d8979e00-db03-11e8-90e0-2f0dc23a982a.PNG)
-![signin](https://user-images.githubusercontent.com/44523159/47619366-dcc3bb80-db03-11e8-92a8-ce02e397485e.PNG)
-![validuser](https://user-images.githubusercontent.com/44523159/47619367-e0efd900-db03-11e8-822b-be9a52564d6e.PNG)
-steps
+![home](https://user-images.githubusercontent.com/44523159/47640413-9022c380-db89-11e8-8c57-1eec1b4fc86d.PNG)
+![homepage](https://user-images.githubusercontent.com/44523159/47640416-90bb5a00-db89-11e8-9f9b-d74137e6d34c.PNG)
+![invalidpass](https://user-images.githubusercontent.com/44523159/47640417-9153f080-db89-11e8-959d-fe1cfddf4ab8.PNG)
+![invaliduser](https://user-images.githubusercontent.com/44523159/47640419-91ec8700-db89-11e8-9a28-61d7cbf8d5d1.PNG)
+![login](https://user-images.githubusercontent.com/44523159/47640421-91ec8700-db89-11e8-869b-db1b829c2220.PNG)
+![registration](https://user-images.githubusercontent.com/44523159/47640422-931db400-db89-11e8-82be-dd118f12ed68.PNG)
+![signin](https://user-images.githubusercontent.com/44523159/47640429-95800e00-db89-11e8-9a0a-f42f37c562b1.PNG)
+![validuser](https://user-images.githubusercontent.com/44523159/47640432-96b13b00-db89-11e8-843c-e3460f7b2da7.PNG)
+
 frontend
 step1:created a homepage which gives the option of signingin and singningup
 if user has already registered he will opt for the option signin,for signing in the user will have to fill in his userid and password.
