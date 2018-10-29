@@ -17,6 +17,8 @@ if user has already registered he will opt for the option signin,for signing in 
 if the userid and password matches the user will be redirected to home that will display WELCOME, else an error message, "user not registered" or "invalid password" will be displayed.
 For new users there is an option of signing up.
 The user will have to enter all details,once he has entered,he can then sign in to the portal as now he has been registered.
+
+
 Backend:
 For backend i have used nodejs and mongodb
 nodejs is a webserver that  is handled by the user
