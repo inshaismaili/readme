@@ -28,4 +28,4 @@ bodyparser is a middleware which  works between request and response.
 bodyparser is used so that so that the data that is recieved by the post request is converted into readable form .
 urlep used is the object of bodyparser.
 var app=express()is the object of the express.
-mongo.connect is used to a connection to the database.
+mongo.connect is used to establish  a connection to the database.
