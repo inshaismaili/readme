@@ -16,12 +16,16 @@ step1:created a homepage which gives the option of signingin and singningup
 if user has already registered he will opt for the option signin,for signing in the user will have to fill in his userid and password.
 if the userid and password matches the user will be redirected to home that will display WELCOME, else an error message, "user not registered" or "invalid password" will be displayed.
 For new users there is an option of signing up.
-the user will have to enter all details once he has entered,he can then sign in to the portal as now he has been registered.
-Backend
-for backend i have used nodejs an mongodb
+The user will have to enter all details,once he has entered,he can then sign in to the portal as now he has been registered.
+Backend:
+For backend i have used nodejs and mongodb
 nodejs is a webserver that  is handled by the user
-mongodb is a databaseserver that is handled machine
-i have used express for  framework
-routing is being  done by get and post request
-mongoose is being used to establish a connection between datasrver and webserver
+mongodb is a databaseserver that is handled by the machine
+I have used express for  framework
+Routing is being  done by get and post request
+ mongo is a variable,mongoose is being used to establish a connection between datasrver and webserver.
 bodyparser is a middleware which  works between request and response.
+bodyparser is used so that so that the data that is recieved by the post request is converted into readable form .
+urlep used is the object of bodyparser.
+var app=express()is the object of the express.
+mongo.connect is used to a connection to the database.
